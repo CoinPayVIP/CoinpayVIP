@@ -1,4 +1,4 @@
-## Coinpay介绍
+## Coinpay 币付通，币支付介绍
 Coinpay.vip 上线于 2021 年，由[交易宝](https://github.com/jiaoyibao/jiaoyibao-payment)升级而成，专为您提供成熟的加密货币支付监测服务，支持 Ethereum 链、BSC链、Tron链、HECO链、OKEX链 上所有加密货币，包括但不限于 USDT、ETH、BNB、TRX、HT、SHIB、DOGE、OXT等。同时Coinpay还支持微信免签、支付宝免签、数字人民币等[免签支付网关](https://github.com/CoinPayVIP/CoinpayVip_CNY)。
 
 ### Coinpay已部署，在线Demo
