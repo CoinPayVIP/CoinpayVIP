@@ -14,12 +14,10 @@
 - 自建节点
 - 多线路支持(大陆线路、香港线路、国际线路)
 ### CoinpayVIP已部署，在线Demo
-- 商户注册登录：http://www.coinpay.vip/
-- AIP接口运行后效果：http://www.coinpay.vip/demo/
-- 聚合收款码运行：http://api.pay.coinpay.vip/qrcode/qrcode.php?pid=6680147386443891
-- 聚合付款运行效果：http://api.pay.coinpay.vip/qrcode/?pid=6680147386443891
-- 接口文档：http://www.callback.vip/news-details.php?id=6
-- 自动发卡示例：http://api.pay.coinpay.vip/mall/?id=e369853df766fa44e1ed0ff613f563b2
+- 商户注册登录：http://www.coinpayvip.com/
+- AIP接口运行后效果：http://www.coinpayvip.com/demo/
+- 接口文档：http://www.coinpayvip.com/news-details.php?id=6
+
 
 ### 声明
 > Coinpay.vip不会收集和存储任何可关联到商户的敏感数据，包括但不限于商户个人信息、银行卡账号、IP地址、访问时间、浏览器头信息等。其次，平台对接收的数据进行了最高强度的加密处理。其次，若你注重隐私性，请使用非实名邮箱或随意输入邮箱注册（注：牢记密码，随意输入邮箱无法找回密码）。
@@ -46,4 +44,4 @@
 ### 技术(网关对接、集成)
 Telegram：[@coinpayvipCOM](https://t.me/coinpayvipCOM)
 
-### [Coinpay官网](http://www.coinpay.vip/)
+### [Coinpay官网](http://www.coinpayvip.com/)
